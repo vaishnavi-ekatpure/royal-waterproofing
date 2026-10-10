@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Balcony Waterproofing",
+    "slug": "balcony",
+    "photos": 22,
+    "videos": 1
+  },
+  {
+    "title": "Basement Waterproofing",
+    "slug": "basement",
+    "photos": 24,
+    "videos": 8
+  },
+  {
+    "title": "Bathroom Waterproofing",
+    "slug": "bathroom",
+    "photos": 23,
+    "videos": 1
+  },
+  {
+    "title": "Kemperol Waterproofing",
+    "slug": "kemperol",
+    "photos": 25,
+    "videos": 7
+  },
+  {
+    "title": "Kitchen Waterproofing",
+    "slug": "kitchen",
+    "photos": 11,
+    "videos": 4
+  },
+  {
+    "title": "Overhead Water Tank Waterproofing",
+    "slug": "overhead-tank",
+    "photos": 8,
+    "videos": 4
+  },
+  {
+    "title": "Planters Waterproofing",
+    "slug": "planters",
+    "photos": 25,
+    "videos": 5
+  },
+  {
+    "title": "Podium Waterproofing",
+    "slug": "podium",
+    "photos": 23,
+    "videos": 0
+  },
+  {
+    "title": "Sloping Roof Waterproofing",
+    "slug": "sloping-roof",
+    "photos": 9,
+    "videos": 6
+  },
+  {
+    "title": "STP Tank Waterproofing",
+    "slug": "stp-tank",
+    "photos": 13,
+    "videos": 2
+  },
+  {
+    "title": "Terrace Waterproofing",
+    "slug": "terrace",
+    "photos": 5,
+    "videos": 14
+  },
+  {
+    "title": "Top Waterproofing",
+    "slug": "top",
+    "photos": 19,
+    "videos": 1
+  },
+  {
+    "title": "Underground Water Tank Waterproofing",
+    "slug": "underground-tank",
+    "photos": 6,
+    "videos": 2
+  }
+]
