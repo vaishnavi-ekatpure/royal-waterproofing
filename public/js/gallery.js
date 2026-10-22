@@ -68,12 +68,12 @@ function videoCard(work, entry, index) {
 
   const video = document.createElement("video");
   video.controls = true;
-  video.preload = "none";
+  video.preload = "metadata";
   video.playsInline = true;
-  if (work.photos[0]) video.poster = `/work/${work.slug}/${mediaFile(work.photos[0])}`;
+  //if (work.photos[0]) video.poster = `/work/${work.slug}/${mediaFile(work.photos[0])}`;
 
   const source = document.createElement("source");
-  source.src = `/work/${work.slug}/${fileName}`;
+  source.src = `/work/${work.slug}/${fileName}#t=0.1`;
   source.type = "video/mp4";
   video.append(source);
 
